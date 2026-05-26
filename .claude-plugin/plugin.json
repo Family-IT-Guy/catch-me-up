@@ -1,0 +1,8 @@
+{
+  "name": "catch-me-up",
+  "description": "Catch yourself back up on a work thread you've stepped away from. /catch-me-up reads your project's state docs and git history, reconciles them against the conversation, and hands back a briefing — what you're doing, what's done, what's left — plus the questions you haven't asked yet but should. Read-only. Summon with /catch-me-up.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ben Gillenwater"
+  }
+}
